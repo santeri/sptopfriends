@@ -1,0 +1,17 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "Tutorial"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"https://www.googleapis.com",
+		"http://localhost:8080",
+		"https://graph.facebook.com"
+	]
+}
